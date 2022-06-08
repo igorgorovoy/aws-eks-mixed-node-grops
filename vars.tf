@@ -1,5 +1,5 @@
 variable "environment_name" {
-  default = "eks-graviton-example"
+  default = "mixed-ng-eks"
 }
 
 variable "eks_version" {
