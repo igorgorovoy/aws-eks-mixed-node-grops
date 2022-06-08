@@ -1,4 +1,5 @@
-# EKS with Graviton2 Instances using Terraform
+# EKS with mixed managed node groups uses  Graviton2 (arm) and x86_64 arch Instances.
+Provision Terraform
 
 This repository provides example Terraform configuration for building an EKS cluster with a Managed Node Group that uses Graviton2 instances (ondemand),
 MNG (spot) uses Graviton2 and MNG (spot) uses x86_64 instances.
